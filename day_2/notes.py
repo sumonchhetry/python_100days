@@ -25,11 +25,12 @@ Any number without any decimal point is an integer aka Int
 
 # Exercise
 
-nums = input("enter a two digit number : \n")
+# nums = input("enter a two digit number : \n")
 
-fst_num = nums[0]
-scnd_num = nums[1]
+# fst_num = nums[0]
+# scnd_num = nums[1]
 
-total_num = int(fst_num) + int(scnd_num)
+# total_num = int(fst_num) + int(scnd_num)
 
-print(total_num)
+# print(total_num)
+
